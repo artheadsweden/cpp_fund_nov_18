@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\joaki\source\repos\alten\cpp_fund_nov_18\day1\tempclass3\tempclass3\source.cpp(88): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+  TempClass3.vcxproj -> C:\Users\joaki\source\repos\Alten\cpp_fund_nov_18\Day1\TempClass3\Debug\TempClass3.exe
