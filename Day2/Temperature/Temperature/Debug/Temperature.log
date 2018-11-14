@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Temperature.cpp
+  Generating Code...
+c:\users\joaki\source\repos\alten\cpp_fund_nov_18\day2\temperature\temperature\temperature.cpp(63): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+  Temperature.vcxproj -> C:\Users\joaki\source\repos\Alten\cpp_fund_nov_18\Day2\Temperature\Debug\Temperature.exe
